@@ -6,5 +6,5 @@ Software Engineering student focused on systems programming, Linux, and open-sou
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=davy-bitencourt&show_icons=true&hide_rank=true&theme=dark&hide_border=true&bg_color=00000000" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davy-bitencourt&layout=compact&hide=html,css&theme=dark&hide_border=true&bg_color=00000000" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davy-bitencourt&layout=compact&langs_count=8&hide=html,css&theme=dark&hide_border=true&bg_color=00000000" width="49%"/>
 </p>
