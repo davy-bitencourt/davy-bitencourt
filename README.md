@@ -8,3 +8,21 @@ Software Engineering student focused on systems programming, Linux, and open-sou
   <img src="https://github-readme-stats.vercel.app/api?username=davy-bitencourt&show_icons=true&hide_rank=true&theme=dark&hide_border=true&bg_color=00000000" width="49%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davy-bitencourt&layout=compact&langs_count=8&hide=html,css&theme=dark&hide_border=true&bg_color=00000000" width="49%"/>
 </p>
+
+### Tech Stack
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash_Script-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake)
+![Conan](https://img.shields.io/badge/Conan-6699CB?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot)
+![Apache Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
