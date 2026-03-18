@@ -5,6 +5,15 @@
 - ⚙️ Simple, robust, technically sound solutions
 - 🧠 Curious by nature, pragmatic by choice
 
+## Overview
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=davy-bitencourt&theme=dark&hide_border=true&background=00000000" width="75%"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=davy-bitencourt&show_icons=true&hide_rank=true&theme=dark&hide_border=true&bg_color=00000000" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davy-bitencourt&layout=compact&langs_count=8&hide=html,css&theme=dark&hide_border=true&bg_color=00000000" width="45%"/>
+</p>
+
 ## Tech Stack
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash_Script-121011?style=for-the-badge&logo=gnubash&logoColor=white)
@@ -25,13 +34,3 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-## Overview
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=davy-bitencourt&theme=dark&hide_border=true&background=00000000" width="75%"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=davy-bitencourt&show_icons=true&hide_rank=true&theme=dark&hide_border=true&bg_color=00000000" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davy-bitencourt&layout=compact&langs_count=8&hide=html,css&theme=dark&hide_border=true&bg_color=00000000" width="45%"/>
-</p>
-
