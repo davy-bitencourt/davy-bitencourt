@@ -1,4 +1,5 @@
 ## Profile
+
 - 👨‍💻 Software Engineering student
 - 🐧 Focused on Systems Programming • Linux • Open-source
 - 🛠️ Building Efficient, reliable tools • Clean architecture
@@ -6,6 +7,7 @@
 - 🧠 Curious by nature, pragmatic by choice
 
 ## Overview
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=davy-bitencourt&theme=dark&hide_border=true&background=00000000" width="75%"/>
 </p>
@@ -15,6 +17,7 @@
 </p>
 
 ## Tech Stack
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash_Script-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
