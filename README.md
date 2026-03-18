@@ -1,5 +1,5 @@
 ## Profile
-- Software Engineering student focused on systems programming, Linux, and open-source development. 
+- Software Engineering student focused on systems programming and open-source development. 
 - Interested in building efficient, reliable tools with clean architecture.
 - Driven by curiosity and a preference for simple, technically sound solutions.
 ## Overview
