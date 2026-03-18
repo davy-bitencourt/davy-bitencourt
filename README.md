@@ -1,7 +1,9 @@
 ## Profile
-- Software Engineering student focused on systems programming and open-source development. 
-- Interested in building efficient, reliable tools with clean architecture.
-- Driven by curiosity and a preference for simple, technically sound solutions.
+- 👨‍💻 Software Engineering student
+- 🐧 Focused on Systems Programming • Linux • Open-source
+- 🛠️ Building Efficient, reliable tools • Clean architecture
+- ⚙️ Simple, robust, technically sound solutions
+- 🧠 Curious by nature, pragmatic by choice
 ## Overview
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=davy-bitencourt&theme=dark&hide_border=true&background=00000000" width="75%"/>
