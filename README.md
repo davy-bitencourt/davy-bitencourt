@@ -18,6 +18,7 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=davy-bitencourt&bg_color=00000000&color=00ff88&line=00ff88&point=00ff88&area=true&area_color=00ff88&hide_border=true"/>
 </p>
+
 ## Tech Stack
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
