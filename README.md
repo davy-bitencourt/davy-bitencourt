@@ -1,9 +1,9 @@
 ## Profile
 
-- 👨‍💻 Software Engineering student
-- 🐧 Focused on Systems Programming • Linux • Open-source
-- 🛠️ Building Efficient, reliable tools • Clean architecture
-- ⚙️ Simple, robust, technically sound solutions
+- 🎓 Software Engineering student
+- 💻 Full-stack dev — web, mobile (Flutter) & systems
+- ⚙️ Interested in Linux internals & low-level computing
+- 🛠️ Building simple, reliable tools — no fluff
 - 🧠 Curious by nature, pragmatic by choice
 
 ## Overview
