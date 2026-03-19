@@ -1,7 +1,7 @@
 ## Profile
 
 - 🎓 Software Engineering student
-- 💻 Full-stack dev — web, mobile (Flutter) & systems
+- 💻 Full-stack dev — web, mobile & systems
 - ⚙️ Interested in Linux internals & low-level computing
 - 🛠️ Building simple, reliable tools — no fluff
 - 🧠 Curious by nature, pragmatic by choice
