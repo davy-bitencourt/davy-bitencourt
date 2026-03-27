@@ -11,10 +11,10 @@
 <!-- <p align="center">
   <img src="https://streak-stats.demolab.com?user=davy-bitencourt&theme=dark&hide_border=true&background=00000000" width="75%"/>
 </p> -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=davy-bitencourt&show_icons=true&hide_rank=true&theme=dark&hide_border=true&bg_color=00000000" width="45%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davy-bitencourt&layout=compact&langs_count=8&hide=html,css&theme=dark&hide_border=true&bg_color=00000000" width="45%"/>
-</p>
+</p> -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=davy-bitencourt&bg_color=00000000&color=00ff88&line=00ff88&point=00ff88&area=true&area_color=00ff88&hide_border=true"/>
 </p>
