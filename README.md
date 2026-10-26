@@ -1,7 +1,6 @@
 ## Profile
 
-- 🎓 Software Engineering student
-- 💻 Full-stack dev — web, mobile & systems
+- 💻 Aspiring Low-Level Developer
 - ⚙️ Interested in Linux internals & low-level computing
 - 🛠️ Building simple, reliable tools — no fluff
 - 🧠 Curious by nature, pragmatic by choice
@@ -15,9 +14,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=davy-bitencourt&show_icons=true&hide_rank=true&theme=dark&hide_border=true&bg_color=00000000" width="45%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davy-bitencourt&layout=compact&langs_count=8&hide=html,css&theme=dark&hide_border=true&bg_color=00000000" width="45%"/>
 </p> -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=davy-bitencourt&theme=github-compact" alt="GitHub Activity Graph"/>
-</p>
 
 ## Tech Stack
 
@@ -27,7 +23,9 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake)
+![SCons](https://img.shields.io/badge/SCons-2E6F9E?style=for-the-badge)
 ![Conan](https://img.shields.io/badge/Conan-6699CB?style=for-the-badge)
+<!-- 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
 ![Apache Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -37,6 +35,7 @@
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
+-->
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 <!-- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white) -->
