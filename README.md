@@ -1,11 +1,13 @@
-## Profile
+0## Profile
 
 - 💻 Aspiring Low-Level Developer
 - ⚙️ Interested in Linux internals & low-level computing
 - 🛠️ Building simple, reliable tools — no fluff
 - 🧠 Curious by nature, pragmatic by choice
 
+<!-- 
 ## Overview
+--->
 
 <!-- <p align="center">
   <img src="https://streak-stats.demolab.com?user=davy-bitencourt&theme=dark&hide_border=true&background=00000000" width="75%"/>
@@ -21,6 +23,7 @@
 ![Bash](https://img.shields.io/badge/Bash_Script-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake)
 ![SCons](https://img.shields.io/badge/SCons-2E6F9E?style=for-the-badge)
