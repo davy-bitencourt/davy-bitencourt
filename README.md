@@ -1,4 +1,4 @@
-0## Profile
+## Profile
 
 - 💻 Aspiring Low-Level Developer
 - ⚙️ Interested in Linux internals & low-level computing
