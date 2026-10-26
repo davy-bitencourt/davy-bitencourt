@@ -16,7 +16,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davy-bitencourt&layout=compact&langs_count=8&hide=html,css&theme=dark&hide_border=true&bg_color=00000000" width="45%"/>
 </p> -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=davy-bitencourt&bg_color=00000000&color=00ff88&line=00ff88&point=00ff88&area=true&area_color=00ff88&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=davy-bitencourt&theme=github-compact" alt="GitHub Activity Graph"/>
 </p>
 
 ## Tech Stack
